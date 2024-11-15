@@ -130,13 +130,6 @@ git push origin feature/amazing-feature
 ```
 5. Open a Pull Request
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 👥 Support
-
-For support, email support@example.com or open an issue in the repository.
 
 ## 🙏 Acknowledgments
 
