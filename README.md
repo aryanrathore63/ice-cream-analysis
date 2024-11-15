@@ -158,27 +158,4 @@ For support, email support@example.com or open an issue in the repository.
 - Large CSV files (>50MB) may cause performance issues
 - Safari browser has limited chart interaction features
 
-## 🔄 Version History
 
-* 0.2.0
-    * Add chart animations
-    * Improve mobile responsiveness
-* 0.1.0
-    * Initial Release
-
-## 📝 Project Structure
-
-```
-ice-cream-sales/
-├── src/
-│   ├── components/
-│   │   ├── Charts/
-│   │   ├── Upload/
-│   │   └── Analysis/
-│   ├── utils/
-│   ├── styles/
-│   └── App.jsx
-├── public/
-├── tests/
-└── README.md
-```
